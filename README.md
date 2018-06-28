@@ -1,5 +1,5 @@
 # Restaurant_Database
-A collection of components for a database which stores local restaurants and their attributes. This database features SQL queries to create tables, SQL queries to select records, and custom forms for navigation and action.
+A collection of components for a database which stores local restaurants and their attributes. This database features custom forms for navigation and interaction, in addition to, leveraging SQL queries to create tables and filter records.
 
 This repository contains the following four files:
 
